@@ -1,1 +1,0 @@
-import"./Github.vue_vue_type_script_setup_true_lang-7f65dced.js";import{_ as i}from"./Github.vue_vue_type_script_setup_true_lang-7f65dced.js";import"./columns-e74e25f5.js";import"./index-982b6cac.js";export{i as default};
