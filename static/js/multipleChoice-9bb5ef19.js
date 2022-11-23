@@ -1,1 +1,0 @@
-import"./multipleChoice.vue_vue_type_script_setup_true_lang-eb2ede12.js";import{_ as i}from"./multipleChoice.vue_vue_type_script_setup_true_lang-eb2ede12.js";import"./data-075ee3cc.js";import"./index-f411795c.js";export{i as default};
