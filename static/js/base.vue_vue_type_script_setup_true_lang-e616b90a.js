@@ -1,0 +1,1 @@
+import{t as o}from"./data-465b353a.js";import{d as t,h as n,e as r,i as p,b as s}from"./index-f2653f7c.js";const b=t({__name:"base",setup(l){const e=[{label:"\u65E5\u671F",prop:"date"},{label:"\u59D3\u540D",prop:"name"},{label:"\u5730\u5740",prop:"address"}];return(u,c)=>{const a=n("pure-table");return r(),p(a,{data:s(o),columns:e},null,8,["data"])}}});export{b as _};
