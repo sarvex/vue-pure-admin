@@ -1,0 +1,1 @@
+import"./border.vue_vue_type_script_setup_true_lang-432a0a1b.js";import{_ as i}from"./border.vue_vue_type_script_setup_true_lang-432a0a1b.js";import"./data-45a0d13d.js";import"./index-d0ae8199.js";export{i as default};
