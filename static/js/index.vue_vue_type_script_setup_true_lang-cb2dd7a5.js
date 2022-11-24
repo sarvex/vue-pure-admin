@@ -1,1 +1,0 @@
-import{useColumns as a}from"./columns-70d54f69.js";import{d as s,h as r,e as c,i as l,b as e}from"./index-574bf11e.js";const f=s({__name:"index",setup(m){const{columns:o,filterTableData:n}=a();return(p,u)=>{const t=r("pure-table");return c(),l(t,{data:e(n),columns:e(o)},null,8,["data","columns"])}}});export{f as _};
