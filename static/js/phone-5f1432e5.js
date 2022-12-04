@@ -1,1 +1,0 @@
-import"./phone.vue_vue_type_script_setup_true_lang-b1daa520.js";import{_ as e}from"./phone.vue_vue_type_script_setup_true_lang-b1daa520.js";import"./index-15c11297.js";import"./motion-5a28e619.js";import"./message-ba477af7.js";import"./verifyCode-40b320e8.js";import"./hooks-2b0dad76.js";import"./iphone-427c59de.js";export{e as default};
