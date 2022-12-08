@@ -1,1 +1,0 @@
-import{u as a}from"./hooks-63efb767.js";import{d as e,c as n,j as o,G as r,u as s}from"./index-8ae11110.js";const i=e({name:"TabQueryDetail"}),f=e({...i,setup(c){const{initToDetail:u,id:t}=a();return u("query"),(l,_)=>(n(),o("div",null,r(s(t))+" - \u8BE6\u60C5\u9875\u5185\u5BB9\u5728\u6B64\uFF08query\u4F20\u53C2\uFF09",1))}});export{f as default};
