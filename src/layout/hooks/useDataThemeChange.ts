@@ -60,15 +60,22 @@ export function useDataThemeChange() {
     }
   }
 
+  function setPropertyPrimary(mode: string, i: number, color: string) {
+    document.documentElement.style.setProperty(
+      `--el-color-primary-${mode}-${i}`,
+      dataTheme.value ? darken(color, i / 10) : lighten(color, i / 10)
+    );
+  }
+
   /** 设置 `element-plus` 主题色 */
   const setEpThemeColor = (color: string) => {
     useEpThemeStoreHook().setEpThemeColor(color);
     document.documentElement.style.setProperty("--el-color-primary", color);
+    for (let i = 1; i <= 2; i++) {
+      setPropertyPrimary("dark", i, color);
+    }
     for (let i = 1; i <= 9; i++) {
-      document.documentElement.style.setProperty(
-        `--el-color-primary-light-${i}`,
-        dataTheme.value ? darken(color, i / 10) : lighten(color, i / 10)
-      );
+      setPropertyPrimary("light", i, color);
     }
   };
 
