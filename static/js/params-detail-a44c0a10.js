@@ -1,0 +1,1 @@
+import{u}from"./hooks-9fa1c51b.js";import{d as a,c as s,k as n,G as o,h as r}from"./index-1bc2670c.js";const i=a({name:"TabParamsDetail"}),f=a({...i,setup(c){const{initToDetail:e,id:t}=u();return e("params"),(l,m)=>(s(),n("div",null,o(r(t))+" - \u8BE6\u60C5\u9875\u5185\u5BB9\u5728\u6B64\uFF08params\u4F20\u53C2\uFF09",1))}});export{f as default};
