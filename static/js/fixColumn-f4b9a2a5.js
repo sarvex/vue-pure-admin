@@ -1,1 +1,0 @@
-import"./fixColumn.vue_vue_type_script_setup_true_lang-8ed2f0f5.js";import{_ as i}from"./fixColumn.vue_vue_type_script_setup_true_lang-8ed2f0f5.js";import"./data-3fb508f4.js";import"./index-1c6f7e93.js";export{i as default};
