@@ -1,1 +1,0 @@
-import{useColumns as t}from"./columns-50fc80eb.js";import{h as s,a3 as r,j as c,v as l,u as e}from"./runtime-core.esm-bundler-f67957fc.js";const i=s({__name:"index",setup(m){const{columns:o,filterTableData:n}=t();return(u,p)=>{const a=r("pure-table");return c(),l(a,{data:e(n),columns:e(o)},null,8,["data","columns"])}}});export{i as _};

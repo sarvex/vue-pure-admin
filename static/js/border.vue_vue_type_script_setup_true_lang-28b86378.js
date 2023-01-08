@@ -1,1 +1,0 @@
-import{t as o}from"./data-955e149f.js";import{h as r,a3 as t,j as n,v as p,u as s}from"./runtime-core.esm-bundler-f67957fc.js";const b=r({__name:"border",setup(l){const e=[{label:"日期",prop:"date"},{label:"姓名",prop:"name"},{label:"地址",prop:"address"}];return(c,_)=>{const a=t("pure-table");return n(),p(a,{data:s(o),columns:e,border:""},null,8,["data"])}}});export{b as _};
